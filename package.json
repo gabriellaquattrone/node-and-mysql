@@ -1,0 +1,24 @@
+{
+  "name": "node-and-mysql",
+  "version": "1.0.0",
+  "description": "Creating an Amazon-like storefront with MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriellaquattrone/node-and-mysql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriellaquattrone/node-and-mysql/issues"
+  },
+  "homepage": "https://github.com/gabriellaquattrone/node-and-mysql#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mysql": "^2.17.1"
+  }
+}
